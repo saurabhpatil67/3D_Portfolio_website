@@ -9,5 +9,14 @@ body{
     background-color: black;
     color:white;
     position:relative;
+}
+
+@media (min-width: 1024px) {
+  body {
     cursor: none;
+  }
+}
+
+canvas {
+  background: transparent !important;
 }
