@@ -6,7 +6,7 @@ A modern and interactive **developer portfolio website** built using **React**, 
 
 ## 🌐 Live Demo
 
-
+https://3-d-portfolio-website-nine.vercel.app/
 
 ---
 
@@ -38,7 +38,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/saurabhpatil67/3D_Portfolio_website
 
 # Navigate to project folder
 cd portfolio
@@ -92,8 +92,8 @@ I am a passionate **Frontend Developer** skilled in building modern and interact
 
 ## 📬 Contact
 
-* 💼 LinkedIn: *(https://github.com/saurabhpatil67)*
-* 🐙 GitHub: *(https://github.com/saurabhpatil67)*
+* 💼 LinkedIn: *www.linkedin.com/in/saurabh-patil-65b387268*
+* 🐙 GitHub: *https://github.com/saurabhpatil67*
 
 ---
 
