@@ -1,16 +1,104 @@
-# React + Vite
+# 🚀 Saurabh Patil – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **developer portfolio website** built using **React**, featuring smooth animations with **Framer Motion**, custom cursor using **GSAP**, and immersive 3D elements powered by **Spline**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+* ⚡ **Responsive Design** – Works seamlessly across mobile, tablet, and desktop
+* 🎨 **Modern UI/UX** – Clean and visually appealing layout
+* 🧩 **3D Integration** – Interactive 3D elements using Spline
+* 🎬 **Smooth Animations** – Powered by Framer Motion
+* 🔄 **Custom Cursor** – Implemented using GSAP
+* 🚀 **Fast Performance** – Optimized React + Vite setup
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js (Vite)
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion, GSAP
+* **3D Elements:** Spline
+* **Version Control:** Git & GitHub
+
+---
+
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/portfolio.git
+
+# Navigate to project folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+---
+
+## 🎯 Key Highlights
+
+* Integrated **Spline 3D scene** into Hero Section
+* Combined **GSAP + Framer Motion** for smooth and engaging animations
+* Designed mobile-first responsive UI using Tailwind CSS
+
+---
+
+
+## ⚠️ Challenges & Solutions
+
+### ❌ Issue:
+
+Spline 3D element not responsive and overlapping on small screens
+
+### ✅ Solution:
+
+* Wrapped Spline inside a responsive container
+* Controlled height using Tailwind breakpoints
+* Set canvas to fit container properly
+
+---
+
+## 🔮 Future Improvements
+
+* Improve 3D performance optimization
+* Add more interactive sections (projects, blog)
+* Integrate contact form with backend
+* Add dark/light theme toggle
+
+---
+
+## 🙋‍♂️ About Me
+
+I am a passionate **Frontend Developer** skilled in building modern and interactive web applications using React and animation libraries.
+
+---
+
+## 📬 Contact
+
+* 💼 LinkedIn: *(https://github.com/saurabhpatil67)*
+* 🐙 GitHub: *(https://github.com/saurabhpatil67)*
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and support my work!
+
+---
